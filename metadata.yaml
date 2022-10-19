@@ -1,0 +1,26 @@
+_repo: The-flowering-plants-of-Africa-An-analytical-key-to-the-genera-of-African-Phanerograms_69049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thonner, Franz
+    gutenberg_agent_id: '55072'
+    url: http://www.gutenberg.org/2009/agents/55072
+description: ''
+gutenberg_issued: '2022-09-26'
+identifiers:
+  gutenberg: '69049'
+language: en
+pgterms:marc905: 20190824102720thonner
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :Dulau & C., LTD:,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The flowering plants of Africa: An analytical key to the genera of African
+  Phanerograms'
+url: http://www.gutenberg.org/ebooks/69049
