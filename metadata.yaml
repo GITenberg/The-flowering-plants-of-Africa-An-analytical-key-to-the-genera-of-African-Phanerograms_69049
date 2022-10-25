@@ -1,11 +1,16 @@
 _repo: The-flowering-plants-of-Africa-An-analytical-key-to-the-genera-of-African-Phanerograms_69049
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69049-h/images/cover.jpg
 creator:
   author:
     agent_name: Thonner, Franz
     gutenberg_agent_id: '55072'
     url: http://www.gutenberg.org/2009/agents/55072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69049#The-flowering-plants-of-Africa-An-analytical-key-to-the-genera-of-African-Phanerograms
 gutenberg_issued: '2022-09-26'
 identifiers:
   gutenberg: '69049'
